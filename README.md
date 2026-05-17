@@ -1,6 +1,6 @@
-<img width="360" height="360" alt="изображение-Photoroom(10)" src="https://github.com/user-attachments/assets/976460d4-c67d-4049-9960-6d002ec8f684" />
+<img width="120" height="120" alt="изображение-Photoroom(10)" src="https://github.com/user-attachments/assets/976460d4-c67d-4049-9960-6d002ec8f684" />
 
-# RBXFPSUnlocker
+# RBXFPSUnlocker More 240 FPS
 
 > **RBXFPSUnlocker** — Popular tool that removes the default 60 FPS limit in Roblox for smoother gameplay.
 
