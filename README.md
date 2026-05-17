@@ -4,9 +4,9 @@
 
 > **RBXFPSUnlocker** — Popular tool that removes the default 60 FPS limit in Roblox for smoother gameplay.
 
-[![GitHub Stars](https://img.shields.io/github/stars/Sunislazi/rbxfpsunlocker?style=flat-square&color=00d4aa)](https://github.com/Sunislazi/rbxfpsunlocker/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Sunislazi/rbxfpsunlocker?style=flat-square&color=0099cc)](https://github.com/Sunislazi/rbxfpsunlocker/network)
-[![Downloads](https://img.shields.io/github/downloads/Sunislazi/rbxfpsunlocker/total?style=flat-square&color=7c5cbf)](https://github.com/Sunislazi/rbxfpsunlocker/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Sunislazi/rbxfpsunlocker-More-240FPS?style=flat-square&color=00d4aa)](https://github.com/Sunislazi/rbxfpsunlocker-More-240FPS/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Sunislazi/rbxfpsunlocker-More-240FPS?style=flat-square&color=0099cc)](https://github.com/Sunislazi/rbxfpsunlocker-More-240FPS/network)
+[![Downloads](https://img.shields.io/github/downloads/Sunislazi/rbxfpsunlocker-More-240FPS/total?style=flat-square&color=7c5cbf)](https://github.com/Sunislazi/rbxfpsunlocker-More-240FPS/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 ## Overview
